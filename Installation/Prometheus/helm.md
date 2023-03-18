@@ -20,5 +20,5 @@ This is required to access prometheus-server using your browser.
 
 ## To expose to browser 
 
-'mkinikube service prometheus-server-ex'
+'mkinikube service prometheus-server-ext'
 
