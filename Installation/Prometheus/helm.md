@@ -18,3 +18,7 @@ This is required to access prometheus-server using your browser.
 
 `kubectl expose service prometheus-server --type=NodePort --target-port=9090 --name=prometheus-server-ext`
 
+## To expose to browser 
+
+'mkinikube service prometheus-server-ex'
+
