@@ -15,3 +15,5 @@
 ## Expose Grafana Service
 
 `kubectl expose service grafana --ype=NodePort --target-port=3000 --name=grafana-ext`
+# To expose to browser 
+'minikube sevice grafana-ext'
